@@ -1,3 +1,1 @@
-[main 07e6821] Create a new global variable
- 2 files changed, 9 insertions(+), 1 deletion(-)
- create mode 100755 0x03-shell_variables_expansions/7-create_global_variable
+Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
